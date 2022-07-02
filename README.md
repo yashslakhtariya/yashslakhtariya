@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @yashslakhtariya
 - 👀 I’m interested in creative projects development
-- 🌱 I’m currently learning C language
+- 💻 I'm great at various Linux distros and customizations 
+- 🌱 I currently know C and C++
 - 📫 How to reach me : Contact me on : yashlakhtariya@protonmail.com
